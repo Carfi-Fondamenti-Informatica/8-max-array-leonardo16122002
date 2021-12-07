@@ -4,7 +4,7 @@
 using namespace std;
 int main() {
     int a;
-    flat j;
+    float j;
 
     cin>>a;
     float n[a];
