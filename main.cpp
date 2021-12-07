@@ -3,7 +3,8 @@
 #include "lib.h"
 using namespace std;
 int main() {
-    int a,j;
+    int a;
+    flat j;
 
     cin>>a;
     float n[a];
